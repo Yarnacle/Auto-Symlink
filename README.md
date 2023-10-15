@@ -1,4 +1,4 @@
-# Program Files Mover
+# Windows Program Files Mover
 Automatically moves program files from C: to D: and creates symlinks in C:
 
 Useful for sharing data between two drives
